@@ -17,3 +17,7 @@ It realize an online shop for a virtualized dessert house.
 * 1st, user register and login session
 * 2nd, buy product and cart management
 * 3rd, sales statistics
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/njuprincerain/desserthouse/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
